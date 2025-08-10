@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://giphy.com/gifs/loop-fish-bored-l1J9L9Y81emaoNMoU">
+    <img height = 100 src="https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/giphy.gif">
   </a>
 
 <h1 align="center">Multiclass Fish Image Classification</h1>
@@ -49,16 +49,19 @@
 
 ## Demo
 <div align="center">
-<img src="https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms/blob/master/ReadMe_files/BE%20Project%20demo.gif" alt="logo" width="60%" height="400">
+<img src="https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screen%20Recording%202025-08-10%20124837.gif" alt="logo" width="60%" height="400">
 </div> 
 
 ## DataSet
 Dataset: [Drive-link](https://drive.google.com/drive/folders/1iKdOs4slf3XvNWkeSfsszhPRggfJ2qEd)
 
 <div align="left">
-    <img src="https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms/blob/master/ReadMe_files/dataset_description.png" alt="dataset_description" width="200" height="400">
+    <img src="https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/image.png" alt="dataset_description" width="500" height="600">
   </a>
   </div>
+
+## Directory Structure
+<img src="https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20111441.png">
 
 ## Key Features and Takeaways 
 
@@ -77,31 +80,50 @@ Dataset: [Drive-link](https://drive.google.com/drive/folders/1iKdOs4slf3XvNWkeSf
 ## Training Curves and Confusion Matrix
 
 **Custom CNN**
-| ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132334.png) | ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132344.png) |
+
+| ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-09%20180207.png) | ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-09%20180248.png) |
 |--------------------------------------------------|----------------------------------------------------------|
+
 **VGG16**
 
-| ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132334.png) | ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132344.png) |
-|--------------------------------------------------|----------------------------------------------------------|
-**ResNet50**
-| ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132334.png) | ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132344.png) |
-|--------------------------------------------------|----------------------------------------------------------|
-**MobileNet**
-| ![Confusion Matrix](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132334.png) | ![Confusion Matrix](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132344.png) |
-|--------------------------------------------------|----------------------------------------------------------|
-**InceptionV3**
-| ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132334.png) | ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132344.png) |
-|--------------------------------------------------|----------------------------------------------------------|
-**EfficientNetB0**
-| ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132334.png) | ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132344.png) |
+| ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20011308.png) | ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20011333.png) |
 |--------------------------------------------------|----------------------------------------------------------|
 
-**Confusion Matrix**
-| ![Confusion Matrix](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132334.png) | ![Confusion Matrix](https://github.com/AdItYaSiNhG/Brain_Tumor_MRI_ML/blob/main/assests/Screenshot%202025-07-24%20132344.png) |
+**ResNet50**
+| ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20011354.png) | ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20011408.png) |
 |--------------------------------------------------|----------------------------------------------------------|
+
+**MobileNet**
+| ![Confusion Matrix](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20020606.png) | ![Confusion Matrix](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20020618.png) |
+|--------------------------------------------------|----------------------------------------------------------|
+
+**InceptionV3**
+| ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20041152.png) | ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20041203.png) |
+|--------------------------------------------------|----------------------------------------------------------|
+
+**EfficientNetB0**
+| ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20052211.png) | ![Train vs Val Loss](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20052221.png) |
+|--------------------------------------------------|----------------------------------------------------------|
+
+
+**Confusion Matrix**
+
+| ![Confusion Matrix](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20111041.png) | ![Confusion Matrix](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20111024.png) |
+|--------------------------------------------------|----------------------------------------------------------|
+
+| ![Confusion Matrix](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20110950.png) | ![Confusion Matrix](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20110928.png) |
+|--------------------------------------------------|----------------------------------------------------------|
+
+| ![Confusion Matrix](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20110900.png) | ![Confusion Matrix](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass/blob/master/resources/Screenshot%202025-08-10%20111009.png) |
+|--------------------------------------------------|----------------------------------------------------------|
+
+
+
+
 
 ## Technologies used
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)     ![](https://img.shields.io/badge/Tensorflow/Keras-blue.svg) ![](https://img.shields.io/badge/Streamlit-blue.svg) ![Deep Learning](https://img.shields.io/badge/CNN-Custom-green.svg) ![Deep Learning](https://img.shields.io/badge/VGG-16-green.svg) ![Deep Learning](https://img.shields.io/badge/ResNet-50-green.svg) ![Deep Learning](https://img.shields.io/badge/MobileNet-blue.svg)  ![Deep Learning](https://img.shields.io/badge/Inception-V3-green.svg) ![Deep Learning](https://img.shields.io/badge/Efficient-B0-green.svg) ![Version Control](https://img.shields.io/badge/Github-blue.svg)
+
 
 ## How to Run the Project 
 
@@ -110,8 +132,8 @@ Dataset: [Drive-link](https://drive.google.com/drive/folders/1iKdOs4slf3XvNWkeSf
 Bash
 
 ```
-git clone https://github.com/your_username/Fish_Classifier.git
-cd Fish Classification
+git clone https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass.git
+cd Fish_Classification-Multiclass
 
 ```
 
@@ -146,39 +168,12 @@ Bash
 streamlit run app.py
 
 ```
-
 The application will open in your default web browser.
-
-
 ## Contributing to the project:
 
-*   Fork the [Master Branch](https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms)
+*   Fork the [Master Branch](https://github.com/AdItYaSiNhG/Fish_Classification-Multiclass)
 *   Clone your branch
 *   If you want to contribute by adding your classification model, create a new folder inside ```Contributions/Your_Name```
 *   Make sure to add a detailed README File.
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
